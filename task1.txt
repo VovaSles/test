@@ -1,0 +1,11 @@
+<world>
+<country name="Italy">
+<city name="Rome" population="2.753"
+mayor="Ignazio Marino">
+</city>
+</country>
+<country name="France"> 
+<city name="Paris" population="2.211" mayor="Anne
+</city> , Hidalgo">
+</country>
+</world> 

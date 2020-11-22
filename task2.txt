@@ -1,0 +1,10 @@
+<product>
+<computer manufactor="Dell">
+<screen size="21" />
+<mouse manufactor="Microsoft" />
+</computer>
+<computer manufactor="Lenovo">
+<screen size="21" />
+<mouse manufactor="Microsoft" />
+</computer>
+</product>
